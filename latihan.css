@@ -92,3 +92,7 @@ h2{
     height: 200px;
     object-fit: cover;
 }
+p{
+    text-align: center;
+    font-family: Chango;
+}
